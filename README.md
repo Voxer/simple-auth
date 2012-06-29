@@ -1,5 +1,7 @@
 # Simple-auth
 
+[![Build Status](https://secure.travis-ci.org/sentientwaffle/simple-auth.png?branch=master)](http://travis-ci.org/sentientwaffle/simple-auth)
+
 Framework-agnostic HTTP Basic authentication for Node.js (no need for
 express/connect/insert-web-framework).
 
